@@ -7,9 +7,9 @@
 
 [![NPM][npm-icon]][npm-link]
 
-![alt text](./img/1.png "Logo Title Text 1")
-![alt text](./img/2.png "Logo Title Text 1")
-![alt text](./img/3.png "Logo Title Text 1")
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
 
 ## Installation
 

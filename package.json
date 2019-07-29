@@ -1,6 +1,6 @@
 {
   "name": "videojs-css",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/videojs-css.cjs.js",
   "module": "dist/videojs-css.es.js",
@@ -33,6 +33,14 @@
     "watch:css": "npm run build:css -- -w",
     "watch:js": "npm run build:js -- -w",
     "prepublishOnly": "npm-run-all build test:verify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facundofernandez/videojs-css.git"
+  },
+  "homepage": "https://github.com/facundofernandez/videojs-css",
+  "bugs": {
+    "url": "https://github.com/facundofernandez/videojs-css/issues"
   },
   "keywords": [
     "videojs",
