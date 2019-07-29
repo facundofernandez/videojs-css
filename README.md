@@ -1,4 +1,11 @@
+
+[npm-icon]: https://nodei.co/npm/videojs-css.png?downloads=true&downloadRank=true&stars=true
+
+[npm-link]: https://nodei.co/npm/videojs-css/
+
 # videojs-css
+
+[![NPM][npm-icon]][npm-link]
 
 ![alt text](./img/1.png "Logo Title Text 1")
 ![alt text](./img/2.png "Logo Title Text 1")
