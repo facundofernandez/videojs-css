@@ -1,6 +1,6 @@
 {
   "name": "videojs-css",
-  "version": "0.0.0",
+  "version": "1.0.5",
   "description": "",
   "main": "dist/videojs-css.cjs.js",
   "module": "dist/videojs-css.es.js",
