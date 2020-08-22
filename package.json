@@ -1,6 +1,6 @@
 {
   "name": "@facundofernandez/videojs-css",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "repository": {
     "url": "git://github.com/facundofernandez/videojs-css.git"
@@ -64,23 +64,25 @@
   },
   "dependencies": {
     "global": "^4.4.0",
+    "postcss": "^7.0.32",
     "video.js": "^6 || ^7"
   },
   "devDependencies": {
     "conventional-changelog-cli": "^2.1.0",
     "conventional-changelog-videojs": "^3.0.0",
+    "in-publish": "^2.0.1",
     "karma": "^5.1.1",
     "not-prerelease": "^1.0.1",
     "npm-merge-driver-install": "^1.1.1",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^7.1.1",
-    "rollup": "^2.26.4",
+    "rollup": "^2.26.5",
     "shx": "^0.3.2",
     "sinon": "^9.0.3",
     "videojs-generate-karma-config": "~5.3.1",
     "videojs-generate-postcss-config": "~2.1.1",
     "videojs-generate-rollup-config": "~5.0.2",
-    "videojs-generator-verify": "~1.2.0",
+    "videojs-generator-verify": "^1.2.0",
     "videojs-standard": "^8.0.4"
   }
 }
