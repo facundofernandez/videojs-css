@@ -31,19 +31,19 @@ class Css extends Plugin {
     super(player);
 
     this.options = videojs.mergeOptions(defaults, options);
-    
-    console.log(this.options);
 
-    if(this.options.bigPlayButton){
-      let bigPlayButton = this.player.bigPlayButton.el();
-      for(let elem in this.options.bigPlayButton){
+    if (this.options.bigPlayButton) {
+      const bigPlayButton = this.player.bigPlayButton.el();
+
+      for (const elem in this.options.bigPlayButton) {
         bigPlayButton.style[elem] = this.options.bigPlayButton[elem];
       }
     }
 
-    if(this.options.controlBar){
-      let controlBar = this.player.controlBar.el();
-      for(let elem in this.options.controlBar){
+    if (this.options.controlBar) {
+      const controlBar = this.player.controlBar.el();
+
+      for (const elem in this.options.controlBar) {
         controlBar.style[elem] = this.options.controlBar[elem];
       }
     }
