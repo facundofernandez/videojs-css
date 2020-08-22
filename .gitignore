@@ -31,5 +31,3 @@ docs/api/
 test/dist/
 .eslintcache
 .yo-rc.json
-
-*lock.json
