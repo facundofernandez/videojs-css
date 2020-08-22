@@ -1,7 +1,10 @@
 {
   "name": "@facundofernandez/videojs-css",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
+  "repository": {
+    "url": "git://github.com/facundofernandez/videojs-css.git"
+  },
   "main": "dist/videojs-css.cjs.js",
   "module": "dist/videojs-css.es.js",
   "generator-videojs-plugin": {
