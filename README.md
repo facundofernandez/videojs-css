@@ -7,9 +7,9 @@
 
 [![NPM][npm-icon]][npm-link]
 
-![alt text](./img/1.png "Logo Title Text 1")
-![alt text](./img/2.png "Logo Title Text 1")
-![alt text](./img/3.png "Logo Title Text 1")
+![alt text](https://github.com/facundofernandez/videojs-css/blob/master/img/1.png "Logo Title Text 1")
+![alt text](https://github.com/facundofernandez/videojs-css/blob/master/img/2.png "Logo Title Text 1")
+![alt text](https://github.com/facundofernandez/videojs-css/blob/master/img/3.png "Logo Title Text 1")
 
 ## Installation
 
